@@ -159,7 +159,9 @@ Moutoussis & Zeki (1997)
 
 "Thus the color-motion asynchrony appears to result from the binding process favoring the early phase of the color but not the early part of the motion." - Holcombe (2009)
 
-## What causes the FLE? {background-image="images/clockIcon.png" background-opacity="0.1" background-size="cover"}
+## What causes the flash-lag effect? {background-image="images/clockIcon.png" background-opacity="0.1" background-size="cover"}
+
+## What *contributes to* the flash-lag effect? {background-image="images/clockIcon.png" background-opacity="0.1" background-size="cover"}
 
 - Temporal error? LIKELY
   - Triggered sample / attention shift
