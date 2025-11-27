@@ -1,0 +1,247 @@
+---
+title: "ACNS2025notesIntoSlides"
+format:
+  revealjs:
+    slide-number: true
+    incremental: true   
+    slide-tone: true
+---
+
+## Has predictive processing gone too far? {background-image="images/brain-outline.avif" background-opacity="0.03" background-size="cover"}
+
+::: {style="font-size: 8em;"}
+YES
+:::
+
+- , in the case of the flash-lag effect {.fragment}
+
+::: notes
+So this is a rather narrow topic, but I think there may be similar dynamics happening in other literatures. You tell me
+:::
+
+## Co-authors (but not co-conspirators)
+
+<BR> <BR>
+
+Josh Corbett
+
+Tim Cottier (QUT)
+
+Jye Marchant (U-Syd)
+
+::: notes
+Don't blame them
+My co-authors do not necessarily endorse everything I'm going to say in this talk. With apologies to all the great work at Monash and UMelb that's been done on predictive processing
+
+:::
+
+## The flash-lag effect
+
+![](images/Flash_lag.gif){width="70%"}
+
+::: notes
+Just explain the demo, don't editorialise yet
+:::
+
+## The predictive processing account {background-image="images/brain-outline.avif" background-opacity="0.05" background-size="cover"}
+
+The brain extrapolates the position of the moving object, to compensate for neural latency (Nijhawan 1994)
+
+![](images/Flash_lag.gif){width="70%"} 
+
+::: notes 
+I'm not going to deny that extrapolation occurs. My point will be more that if it does exist it may only be a bit player in the cavalcade of contributors to the FLE
+:::
+
+## {background-image="images/brain-outline.avif" background-opacity="0.05" background-size="cover"}
+
+![](images/RustPalmerScreenshot.png){width="100%"} 
+
+::: notes 
+Predictive processing has become very popular in my field of vision science, which is fine, except that it had lead to some shoehorning of all sorts of phenomena into the predictive processing framework, which can sometimes hold back pogress on them. 
+:::
+
+## Has predictive processing gone too far? {background-image="images/brain-outline.avif" background-opacity="0.03" background-size="cover"}
+
+> the FLE is an example of extrapolation that forecasts an object's future position according to its current velocity
+
+Rust & Palmer (2021), *Annual Review of Vision Science*
+
+> This effect [the flash-lag effect] is due to extrapolation of the moving object resulting in the moving object being perceived ahead in time
+
+Teichmann et al (2021), *Trends in Cognitive Science*
+
+::: notes
+In the words of our first keynote speaker, "I'm here to mess up this nice pretty picture." And also to suggest a way forward
+
+16 papers (those that don’t have “NA” in the “Explanation” column, see Appendix A), only two of the articles mentioned other theories.
+:::
+
+## 
+
+Of 16 papers in 2023 that mentioned the FLE, only 2 articles mentioned theories besides the extrapolation theory
+
+::: notes
+not cherry-picking there
+:::
+
+## Problems for the predictive account {background-image="images/brain-outline.avif" background-opacity="0.04" background-size="cover"}
+
+-   Flash-terminated condition
+
+-   Flash-initiated condition
+
+-   Extrapolation proponents admit that extrapolation can't explain these
+
+    -   Invoke postdiction, declare victory again
+    -   Other possible contributors are referred to as "modulators"
+
+::: notes
+Postdiction might indeed be occurring. But it is used as a catch-all to explain away any contrary evidence, so it smacks of special pleading
+
+I think this is a bit too quick, especially when one considers that there are many more findings that they can't explain.
+:::
+
+## Problems for the predictive account: Predictability not required {background-image="images/clockIcon.png" background-opacity="0.05" background-size="cover"}
+
+- Randomly-jumping bar shows the same phenomenon (Murakami, 2000, 2001)
+
+- Feature space "motion" highly unlikely to be predicted by the brain also yields the phenomenon (Sheth & Shimojo, 2000; Callahan-Clintoft, Holcombe, & Wyble, 2020) 
+
+## Problems for the predictive account: High variability {background-image="images/clockIcon.png" background-opacity="0.05" background-size="cover"}
+
+-   The variability is as large as the mean (Murakami 2000, 2001; Linares, Holcombe, & White 2009)
+    -   Bad for position perception! 12 kph (7.5 mph), 80 ms of trajectory = 27 cm
+-   Individuals' mean flash-lag effects vary dramatically 
+    -   8 out of 85 in Cottier et al. (2023) were negative in both sessions
+
+
+-   Extrapolation occurs only later, not online (Nakayama & Holcombe 2021; Nakayama, Amano, & Murakami 2025)
+
+::: notes
+People talk about the first two, and then invoke postdiction, which is a loosey-goosey way to explain any results one can't account for.
+:::
+
+## The task has a temporal component {background-image="images/clockIcon.png" background-opacity="0.05" background-size="cover"}
+
+![](images/Flash_lag.gif){width="70%"}
+
+## Temporal errors {background-image="images/clockIcon.png" background-opacity="0.05" background-size="cover"}
+
+-   Triggered sample / attention shift
+-   Intermittent updating
+-   Temporal mis-binding
+
+::: notes :::
+I think everybody here has heard of brain oscillations
+
+attention shift
+temporal integration brain oscillation
+:::
+
+## Temporal mis-binding {background-image="images/colorMotionAlternationSlow.gif" background-opacity=".9" background-size="cover"}
+
+Moutoussis & Zeki (1997)
+
+::: notes :::
+Initially suggested to be difference in neural latency
+:::
+
+## Temporal mis-binding {background-image="images/clockIcon.png" background-opacity="0.05" background-size="cover"}
+
+![](images/colorMotionAlternationSlow.gif)
+<BR>
+Moutoussis & Zeki (1997)
+
+## Temporal mis-binding {background-image="images/clockIcon.png" background-opacity="0.05" background-size="cover"}
+
+![](images/colorMotionHolc2009noText.png)
+
+"Thus the color-motion asynchrony appears to result from the binding process favoring the early phase of the color but not the early part of the motion." - Holcombe (2009)
+
+## What causes the FLE? {background-image="images/clockIcon.png" background-opacity="0.1" background-size="cover"}
+
+- Temporal error? LIKELY
+  - Triggered sample / attention shift
+  - Intermittent updating
+  - Temporal mis-binding
+- Extrapolation / predictive processing? LIKELY - but not based on FLE evidence
+
+::: notes :::
+This is me being nice.
+Where it's gone too far is in writing as if extrapolation is *the* cause of the FLE
+And 
+:::
+
+## {background-image="images/clockIcon.png" background-opacity="0.02" background-size="cover"}
+
+<!-- from https://www.retirewise.in/the-single-cause-fallacy/ -->
+
+![](images/single-cause-cancer-fallacy.jpg){width="70%"}
+
+::: notes
+The fallacy of the single cause
+:::
+
+## The fallacy of the single cause {background-image="images/clockIcon.png" background-opacity="0.1" background-size="cover"}
+
+::: {.r-fit-text}
+Please stop saying that the FLE is caused by extrapolation 
+:::
+
+
+## {background-image="images/clockIcon.png" background-opacity="0.05" background-size="cover"}
+
+![](images/MotionPositionIllusionsTimTable.png)
+
+![](images/Flash_lag.gif){width="70%"}
+
+## {background-image="images/clockIcon.png" background-opacity="0.1" background-size="cover"}
+
+- Please stop saying that the FLE is caused by extrapolation 
+
+- If you want to find good evidence for extrapolation, don't study the flash-lag effect
+
+![](images/MotionPositionIllusionsTimTable.png)
+
+::: notes
+The flash-lag effect is the worst one to study, if you're interested in extrapolation / predictive processing
+:::
+
+
+## Other accounts
+
+![](images/MechanismsTimTable.png)
+::: notes :::
+-   Triggered sample / attention shift
+-   Temporal mis-binding
+-   Intermittent updating
+    -   Discrete sampling / brain oscillation
+:::
+
+
+
+
+## Temporal error theories can explain some of the evidence that's problematic for extrapolation
+
+Variability
+
+```{=html}
+<!--
+Check the paper of Hogendoorn whether the lateral connections are supposed to create object de novo or whether it’s priming
+
+Can’t falsify predictive coding, the extrapolation theory because they just say it always gets it deleted
+    special pleading, post hoc .. particularly offensive is that they then count those cases as support for the same theory because they say prediction and post diction is the same umbrella
+
+MIPS
+-->
+```
+
+
+## 
+
+![](images/MotionPositionIllusionsTimTable.png)
+
+
+
+TIM'S TABLE PARTIAL MIPS can't be explained
