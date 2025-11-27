@@ -61,7 +61,7 @@ I'm not going to deny that extrapolation occurs. My point will be more that if i
 Predictive processing has become very popular in my field of vision science, which is fine, except that it had lead to some shoehorning of all sorts of phenomena into the predictive processing framework, which can sometimes hold back pogress on them. 
 :::
 
-## Has predictive processing gone too far? {background-image="images/brain-outline.avif" background-opacity="0.03" background-size="cover"}
+## {background-image="images/brain-outline.avif" background-opacity="0.08" background-size="cover"}
 
 > the FLE is an example of extrapolation that forecasts an object's future position according to its current velocity
 
@@ -79,7 +79,7 @@ In the words of our first keynote speaker, "I'm here to mess up this nice pretty
 
 ## 
 
-Of 16 papers in 2023 that mentioned the FLE, only 2 articles mentioned theories besides the extrapolation theory
+Of 16 papers in 2023 that mentioned the flash-lag effect, only 2 mentioned theories other than the extrapolation theory
 
 ::: notes
 not cherry-picking there

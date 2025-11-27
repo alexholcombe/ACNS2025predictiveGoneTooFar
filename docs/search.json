@@ -35,18 +35,18 @@
     "text": "Predictive processing has become very popular in my field of vision science, which is fine, except that it had lead to some shoehorning of all sorts of phenomena into the predictive processing framework, which can sometimes hold back pogress on them."
   },
   {
-    "objectID": "slidesNotesAttempt.html#has-predictive-processing-gone-too-far-1",
-    "href": "slidesNotesAttempt.html#has-predictive-processing-gone-too-far-1",
-    "title": "ACNS2025notesIntoSlides",
-    "section": "Has predictive processing gone too far?",
-    "text": "Has predictive processing gone too far?\n\nthe FLE is an example of extrapolation that forecasts an object’s future position according to its current velocity\n\nRust & Palmer (2021), Annual Review of Vision Science\n\nThis effect the flash-lag effect is due to extrapolation of the moving object resulting in the moving object being perceived ahead in time\n\nTeichmann et al (2021), Trends in Cognitive Science\n\nIn the words of our first keynote speaker, “I’m here to mess up this nice pretty picture.” And also to suggest a way forward\n16 papers (those that don’t have “NA” in the “Explanation” column, see Appendix A), only two of the articles mentioned other theories."
-  },
-  {
     "objectID": "slidesNotesAttempt.html#section-1",
     "href": "slidesNotesAttempt.html#section-1",
     "title": "ACNS2025notesIntoSlides",
     "section": "",
-    "text": "Of 16 papers in 2023 that mentioned the FLE, only 2 articles mentioned theories besides the extrapolation theory\n\nnot cherry-picking there"
+    "text": "the FLE is an example of extrapolation that forecasts an object’s future position according to its current velocity\n\nRust & Palmer (2021), Annual Review of Vision Science\n\nThis effect the flash-lag effect is due to extrapolation of the moving object resulting in the moving object being perceived ahead in time\n\nTeichmann et al (2021), Trends in Cognitive Science\n\nIn the words of our first keynote speaker, “I’m here to mess up this nice pretty picture.” And also to suggest a way forward\n16 papers (those that don’t have “NA” in the “Explanation” column, see Appendix A), only two of the articles mentioned other theories."
+  },
+  {
+    "objectID": "slidesNotesAttempt.html#section-2",
+    "href": "slidesNotesAttempt.html#section-2",
+    "title": "ACNS2025notesIntoSlides",
+    "section": "",
+    "text": "Of 16 papers in 2023 that mentioned the flash-lag effect, only 2 mentioned theories other than the extrapolation theory\n\nnot cherry-picking there"
   },
   {
     "objectID": "slidesNotesAttempt.html#problems-for-the-predictive-account",
@@ -112,8 +112,8 @@
     "text": "What causes the FLE?\n\nTemporal error? LIKELY\n\nTriggered sample / attention shift\nIntermittent updating\nTemporal mis-binding\n\nExtrapolation / predictive processing? LIKELY - but not based on FLE evidence\n\n\nThis is me being nice. Where it’s gone too far is in writing as if extrapolation is the cause of the FLE And"
   },
   {
-    "objectID": "slidesNotesAttempt.html#section-2",
-    "href": "slidesNotesAttempt.html#section-2",
+    "objectID": "slidesNotesAttempt.html#section-3",
+    "href": "slidesNotesAttempt.html#section-3",
     "title": "ACNS2025notesIntoSlides",
     "section": "",
     "text": "The fallacy of the single cause"
@@ -126,8 +126,8 @@
     "text": "The fallacy of the single cause\n\nPlease stop saying that the FLE is caused by extrapolation"
   },
   {
-    "objectID": "slidesNotesAttempt.html#section-4",
-    "href": "slidesNotesAttempt.html#section-4",
+    "objectID": "slidesNotesAttempt.html#section-5",
+    "href": "slidesNotesAttempt.html#section-5",
     "title": "ACNS2025notesIntoSlides",
     "section": "",
     "text": "Please stop saying that the FLE is caused by extrapolation\nIf you want to find good evidence for extrapolation, don’t study the flash-lag effect\n\n\n\nThe flash-lag effect is the worst one to study, if you’re interested in extrapolation / predictive processing"
@@ -147,8 +147,8 @@
     "text": "Temporal error theories can explain some of the evidence that’s problematic for extrapolation\nVariability"
   },
   {
-    "objectID": "slidesNotesAttempt.html#section-5",
-    "href": "slidesNotesAttempt.html#section-5",
+    "objectID": "slidesNotesAttempt.html#section-6",
+    "href": "slidesNotesAttempt.html#section-6",
     "title": "ACNS2025notesIntoSlides",
     "section": "",
     "text": "TIM’S TABLE PARTIAL MIPS can’t be explained"
