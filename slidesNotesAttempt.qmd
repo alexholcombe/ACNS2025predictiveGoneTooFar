@@ -13,7 +13,7 @@ format:
 YES
 :::
 
-- , in the case of the flash-lag effect {.fragment}
+- in the case of the flash-lag effect
 
 ::: notes
 So this is a rather narrow topic, but I think there may be similar dynamics happening in other literatures. You tell me
